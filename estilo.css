@@ -6,9 +6,16 @@ body{
 
 }
 
+.cabeçalho{
+    display: flex;
+    justify-content: space-around;
+    padding: 24px 0;
+
+}
+
+
 .cabeçalho-imagem{
     display: flex;
-    font-size: 24px;
     width: 15%;
 }
 
