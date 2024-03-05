@@ -13,8 +13,10 @@ body{
     padding: 24px;
 }
 
-.PortalUruguai {
-    display: flex;
-justify-content: center;
+.Portal Uruguai {
+    display: flex;  
+    background-color: antiquewhite;
+    justify-content: space-around;
+    padding: 24px 0;
 
 }
