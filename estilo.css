@@ -21,9 +21,9 @@ body{
 
 .cabeçalho-titulo{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     color: white;
-
+    width: 20%;
 
 }
 
