@@ -15,8 +15,8 @@ body{
 
 .cabeçalho{
     display: flex;
-    justify-content: stretch;
-    padding: 24px 0;
+    justify-content: space-around;
+    padding: 24px;
     background-color: rgb(41, 18, 126);
 
 }
