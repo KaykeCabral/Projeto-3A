@@ -1,24 +1,30 @@
-.Portal Uruguai {
-    display: flex;  
-    background-color: antiquewhite;
-    justify-content: space-around;
-    padding: 24px 0;
-
+*{
+    margin: 0;
+    padding: 0;
 }
-
 
 body{
-    height: 100vh;
-    width: 100vw;
-    background: rgb(14,49,152);
-    background: linear-gradient(90deg, rgba(14,49,152,1) 0%, rgba(5,10,78,1) 60%, rgba(10,4,70,1) 100%, rgba(0,212,255,0) 100%);
-
+    background-color: #171717;
 }
 
-.cabeçalho{
+.cabeçalho {
     display: flex;
-    background-color: #3e04a1;
+    background-color: black;
     justify-content: space-around;
-    padding: 24px;
+    padding: 24px 0;
 }
 
+.cabeçalho-imagem {
+    width: 10%;
+}
+
+.cabeçalho-título {
+    color: white;
+}
+
+.cabeçalho-lista-item{
+    display: inline-block;
+    margin: 0 14px;
+    font-size: 24px;
+    color: white;
+}
