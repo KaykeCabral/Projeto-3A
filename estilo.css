@@ -12,3 +12,9 @@ body{
     justify-content: space-around;
     padding: 24px;
 }
+
+.PortalUruguai {
+    display: flex;
+justify-content: center;
+
+}
