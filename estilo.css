@@ -7,9 +7,8 @@ body{
 }
 
 .cabeçalho-imagem{
+    display: flex;
     width: 10%;
-
-
 }
 
 .cabeçalho-titulo{
