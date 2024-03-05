@@ -1,0 +1,6 @@
+.cabeçalho{
+    display: flex;
+    background-color: #0404B4;
+    justify-content: space-around;
+    padding: 24px;
+}
