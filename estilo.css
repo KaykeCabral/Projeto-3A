@@ -8,7 +8,7 @@ body{
 
 .cabeçalho{
     display: flex;
-    background-color: #3a3afb;
+    background-color: #3e04a1;
     justify-content: space-around;
     padding: 24px;
 }
